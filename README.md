@@ -1,4 +1,4 @@
-# Student_Performance_Prediction_System
+# JournalApp – Role-Based System
 <h1 align="center">
             JournalApp – Role-Based System
 </h1>
