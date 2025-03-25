@@ -31,23 +31,20 @@ ensuring scalability, performance, and maintainability.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
-### 1. Code IMage
+### 1. Code Image
 ![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(263).png)
 
-### 2. Home Page
-![image](https://github.com/sauravkumarverma25/Student_Performance_Predication_system-website/blob/main/student_home_page.png)
+### 2. User_create
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(266).png)
 
-### 3. Teacher Login Page
-![image](https://github.com/sauravkumarverma25/Student_Performance_Predication_system-website/blob/main/teacher_login.png)
+### 3. Create_User - Role(admin/normal user)
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(268).png)
 
-### 4. Teacher upload Page
-![image](https://github.com/sauravkumarverma25/Student_Performance_Predication_system-website/blob/main/teacher_upload_data.png)
+### 4. DataBase_storage(MongoDB_Atlas)
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(267).png)
 
-### 5. Student Predication Page
-![image](https://github.com/sauravkumarverma25/Student_Performance_Predication_system-website/blob/main/result_stu_performance.png)
+### 5. Admin can Access(all user)
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(265).png)
 
-### 6. Material send Page
-![image](https://github.com/sauravkumarverma25/Student_Performance_Predication_system-website/blob/main/send_material.png)
-
-### 7. Student Material Page
-![image](https://github.com/sauravkumarverma25/Student_Performance_Predication_system-website/blob/main/student_material.png)
+### 6. User_Entries
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(264).png)
