@@ -31,8 +31,8 @@ ensuring scalability, performance, and maintainability.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
-### 1. Login Page
-![image](https://github.com/sauravkumarverma25/Student_Performance_Predication_system-website/blob/main/student_login_page.png)
+### 1. Code IMage
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(263).png)
 
 ### 2. Home Page
 ![image](https://github.com/sauravkumarverma25/Student_Performance_Predication_system-website/blob/main/student_home_page.png)
