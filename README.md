@@ -13,14 +13,17 @@ ensuring scalability, performance, and maintainability.
 # Tech Stack Used:
 
 <div align="left">
-<img alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
-<img alt="Django" src="https://img.shields.io/badge/django-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="HTML" src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23F7DF1E"/>
-<img alt="CSS" src="https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E"/>
-<img alt="SQL" src="https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=sql&logoColor=%23F7DF1E"/>
-<img alt="Anaconda" src="https://img.shields.io/badge/anaconda-%23323330.svg?style=for-the-badge&logo=anaconda&logoColor=%23F7DF1E"/>
-<img alt="Machine Learning" src="https://img.shields.io/badge/machine learning-%23323330.svg?style=for-the-badge&logo=machine learning&logoColor=%23F7DF1E"/>
+## 🛠️ Tech Stack
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
+
+### Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 </div>
 
 ### 1. Login Page
