@@ -56,13 +56,13 @@ ensuring scalability, performance, and maintainability.
 ![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(273).png)
 
 ### 8. Sonarqube testing
-![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(270).png)
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(278).png)
 
 ### Sonarqube_cloud
 ![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(279).png)
 
 ### 9. Redis
-![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(278).png)
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(274).png)
 ![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(275).png)
 
 ### Redis call code:-
