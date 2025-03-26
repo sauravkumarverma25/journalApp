@@ -48,3 +48,20 @@ ensuring scalability, performance, and maintainability.
 
 ### 6. User_Entries
 ![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(264).png)
+
+### 7. Junit_Testing
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(270).png)
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(271).png)
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(272).png)
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(273).png)
+
+### 9. Redis
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(274).png)
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(275).png)
+
+### Redis call code:-
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(276).png)
+### Redis_Test
+![image](https://github.com/sauravkumarverma25/journalApp/blob/master/Screenshot%20(277).png)
+
+
